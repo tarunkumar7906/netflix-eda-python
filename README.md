@@ -94,7 +94,7 @@ Grouped data by release year and type, then plotted both on the same chart. This
 ## 📂 Project Structure
 
 ```
-netflix-eda-python/
+
 ├── Netflix_Analysis.ipynb       ← Main analysis notebook
 ├── netflix_titles.csv           ← Raw dataset from Kaggle
 ├── Charts/
