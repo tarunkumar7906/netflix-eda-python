@@ -1,7 +1,6 @@
-# 🎬 Netflix Titles EDA — Python Analysis
+# 🎬 Netflix Titles EDA Analysis
 
 **Tools used:** Python | Pandas | Matplotlib  
-**Status:** Completed
 
 ---
 
